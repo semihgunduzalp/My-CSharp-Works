@@ -11,7 +11,7 @@ namespace Arrays
         static void Main(string[] args)
         {
             string[] students = new string[3] { "Engin", "Derin", "Salih" };
-            students=new [4]{"","",""}
+            students = new [4] {"", "", ""};
             string[] students2 = { "Engin", "Derin", "Salih" };
             //students2[3] = "Ahmet";
 

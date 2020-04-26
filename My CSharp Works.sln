@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceAndValueType", "Re
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{EA6C8DB8-3268-4FB8-A1DC-2466FB3DCE38}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "Exceptions\Exceptions.csproj", "{FCF6144B-E120-4B50-A2CA-431049380850}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdoNetDemo", "AdoNetDemo\AdoNetDemo.csproj", "{D0982F45-2B9C-4F85-A00D-4A70912AB428}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +127,14 @@ Global
 		{EA6C8DB8-3268-4FB8-A1DC-2466FB3DCE38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA6C8DB8-3268-4FB8-A1DC-2466FB3DCE38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA6C8DB8-3268-4FB8-A1DC-2466FB3DCE38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCF6144B-E120-4B50-A2CA-431049380850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF6144B-E120-4B50-A2CA-431049380850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF6144B-E120-4B50-A2CA-431049380850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF6144B-E120-4B50-A2CA-431049380850}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0982F45-2B9C-4F85-A00D-4A70912AB428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0982F45-2B9C-4F85-A00D-4A70912AB428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0982F45-2B9C-4F85-A00D-4A70912AB428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0982F45-2B9C-4F85-A00D-4A70912AB428}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
