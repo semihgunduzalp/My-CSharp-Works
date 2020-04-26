@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceAndValueType", "ReferenceAndValueType\ReferenceAndValueType.csproj", "{A2363358-4743-4501-B76F-DA5C6AF93CAD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{EA6C8DB8-3268-4FB8-A1DC-2466FB3DCE38}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{A2363358-4743-4501-B76F-DA5C6AF93CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2363358-4743-4501-B76F-DA5C6AF93CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2363358-4743-4501-B76F-DA5C6AF93CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA6C8DB8-3268-4FB8-A1DC-2466FB3DCE38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA6C8DB8-3268-4FB8-A1DC-2466FB3DCE38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA6C8DB8-3268-4FB8-A1DC-2466FB3DCE38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA6C8DB8-3268-4FB8-A1DC-2466FB3DCE38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
